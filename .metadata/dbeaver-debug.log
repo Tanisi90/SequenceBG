@@ -785,3 +785,7 @@ org.postgresql.util.PSQLException: FATAL: database "Sequence" does not exist
 2020-11-16 10:23:20.820 - Datasource postgres-jdbc-175d2015795-2cb74b5be76e050b not found in project General (/General/Scripts/Script.sql)
 2020-11-16 10:23:20.824 - Execution context opened (Sequence; SQLEditor <Script.sql>; 13)
 2020-11-16 10:23:20.825 - Initiate connection to PostgreSQL database [sequence@javafs200803.cb2jxgoiogdh.us-west-1.rds.amazonaws.com] for SQLEditor <Script.sql>
+2020-11-16 11:32:13.524 - Execution context closed (Sequence, 13)
+2020-11-16 11:32:13.693 - DBeaver is stopping
+2020-11-16 11:32:13.695 - Stop RMI server
+2020-11-16 11:32:13.697 - DBeaver shutdown completed
